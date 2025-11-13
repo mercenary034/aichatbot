@@ -9,15 +9,16 @@
 - Go to the `127.0.0.1:5000/chatbot`, You can start chatting.
 
 ## Screenshots
-<img src="https://github.com/Spidy20/Flask_NLP_ChatBot/blob/master/1.png">
+
 <img src="https://github.com/Spidy20/Flask_NLP_ChatBot/blob/master/2.png">
 
 
 ## Notes:- 
-- **This is just basic chatbot, you can improve chatbot learning. Read [documentation](https://pypi.org/project/ChatterBot/)**
+- **This is just basic chatbot, 
 - **For better Chatbot development you can use Dialogflow.**
 - **Even you can do better chatbot development with this strategy also. You just need to train a NLP model in better way.**
 
 
 ## Just follow☝️ me and Star⭐ my repository 
+
 
